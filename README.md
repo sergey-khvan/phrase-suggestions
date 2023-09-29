@@ -9,4 +9,5 @@ In particular sentence-transformers/all-MiniLM-L6-v2
 * Replace the text in text.txt 
 * Replace the phrases in .csv file
 * Run either .py file or .ipynb
-      
+
+!Note: If you want to use google colab, you will need to mount your drive and upload the txt and csv files there.
