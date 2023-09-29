@@ -6,7 +6,7 @@ Uses hugging face models for calculation of the cosine similarity of the sentenc
 In particular sentence-transformers/all-MiniLM-L6-v2
 
 ## How to use:
-Markup: * Replace the text in text.txt 
-        * Replace the phrases in csv file
-        * Run either .py file or .ipynb
+* Replace the text in text.txt 
+* Replace the phrases in csv file
+* Run either .py file or .ipynb
       
